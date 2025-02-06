@@ -1,0 +1,42 @@
+[submodule "dlss"]
+	path = dlss
+	url = https://github.com/NVIDIA/DLSS
+[submodule "rtxgi"]
+	path = rtxgi
+	url = https://github.com/NVIDIA-RTX/RTXGI
+[submodule "omm"]
+	path = omm
+	url = https://github.com/NVIDIA-RTX/OMM
+[submodule "rtxmu"]
+	path = rtxmu
+	url = https://github.com/NVIDIA-RTX/RTXMU
+[submodule "stbn"]
+	path = stbn
+	url = https://github.com/NVIDIA-RTX/STBN
+[submodule "streamline"]
+	path = streamline
+	url = https://github.com/NVIDIAGameWorks/Streamline
+[submodule "rtxmg"]
+	path = rtxmg
+	url = https://github.com/NVIDIA-RTX/RTXMG
+[submodule "rtxcr"]
+	path = rtxcr
+	url = https://github.com/NVIDIA-RTX/RTXCR
+[submodule "rtxntc"]
+	path = rtxntc
+	url = https://github.com/NVIDIA-RTX/RTXNTC
+[submodule "rtxtf"]
+	path = rtxtf
+	url = https://github.com/NVIDIA-RTX/RTXTF
+[submodule "rtxns"]
+	path = rtxns
+	url = https://github.com/NVIDIA-RTX/RTXNS
+[submodule "rtxdi"]
+	path = rtxdi
+	url = https://github.com/NVIDIA-RTX/RTXDI
+[submodule "rtxpt"]
+	path = rtxpt
+	url = https://github.com/NVIDIA-RTX/RTXPT
+[submodule "nrd"]
+	path = nrd
+	url = https://github.com/NVIDIA-RTX/NRD
