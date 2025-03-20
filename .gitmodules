@@ -40,3 +40,6 @@
 [submodule "nrd"]
 	path = nrd
 	url = https://github.com/NVIDIA-RTX/NRD
+[submodule "rtxts"]
+	path = rtxts
+	url = https://github.com/NVIDIA-RTX/RTXTS

@@ -25,6 +25,7 @@ RTX Kit currently includes the following SDKs:
 - RTX Neural Shading: https://github.com/NVIDIA-RTX/RTXNS
 - RTX Neural Texture Compression: https://github.com/NVIDIA-RTX/RTXNTC
 - RTX Texture Filtering: https://github.com/NVIDIA-RTX/RTXTF
+- RTX Texture Streaming: https://github.com/NVIDIA-RTX/RTXTS
 - RTX Mega Geometry: https://github.com/NVIDIA-RTX/RTXMG
 - RTX Character Rendering: https://github.com/NVIDIA-RTX/RTXCR
 - RTX Global Illumination: https://github.com/NVIDIA-RTX/RTXGI
