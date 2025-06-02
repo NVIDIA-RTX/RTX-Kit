@@ -22,6 +22,7 @@ Please note that each SDK within RTX Kit has its own specific system requirement
 ## RTX Kit Components
 RTX Kit currently includes the following SDKs:
 
+- DLSS: https://github.com/NVIDIA/DLSS
 - RTX Neural Shading: https://github.com/NVIDIA-RTX/RTXNS
 - RTX Neural Texture Compression: https://github.com/NVIDIA-RTX/RTXNTC
 - RTX Texture Filtering: https://github.com/NVIDIA-RTX/RTXTF
