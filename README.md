@@ -58,10 +58,12 @@ git pull
 git submodule update --init --recursive
 ```
 
+### Alternative: Set Up Via NVIDIA SDK Manager
+RTX Kit components can also be installed and updated through NVIDIA SDK Manager on supported Windows systems, providing a guided, dependency-aware workflow for streamlined setup and maintenance. Learn more at [NVIDIA SDK Manager](https://developer.nvidia.com/sdk-manager).
+
 ## Additional Notes
 - Please note that the repository locations and URLs for a number of the RTX Kit SDKs have changed with this update. We strongly recommend updating any existing local clones to point to the new repository URL. You can do this by using `git remote` on the command line:
 ```
 git remote set-url origin NEW_URL
 ```
 - This repository serves as an entry point for developer onboarding and provides an overview of RTX Kit and its components. For the latest versions of each SDK, please clone the respective SDK repositories directly.
-
